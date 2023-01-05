@@ -1,0 +1,11 @@
+#include <trial.h>
+
+using namespace std;
+
+int main() 
+{
+	// New trial feature code
+	trialFeature();
+
+	return 0;
+}
