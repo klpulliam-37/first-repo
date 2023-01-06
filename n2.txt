@@ -1,0 +1,1 @@
+void n2Func();
